@@ -1,0 +1,2 @@
+# english_and_chinese_translate
+中英翻译python脚本
