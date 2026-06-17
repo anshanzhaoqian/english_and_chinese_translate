@@ -1,6 +1,8 @@
 # english_and_chinese_translate
 中英翻译python脚本
 
+***
+
 english_to_chinese.py是英译中脚本
 
 chinese_to_english.py是中译英脚本
